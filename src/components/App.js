@@ -2,7 +2,6 @@ import React from 'react';
 import SearchBar from './SearchBar';
 import youtube from '../apis/youtube'
 import VideoList from './VideoList';
-import VideoDetails from './VideoDetail';
 import VideoDetail from './VideoDetail';
 
 const KEY = 'AIzaSyDg-dcxDuzJDmeuq7RjEPq6ln5xP-oujGM';
